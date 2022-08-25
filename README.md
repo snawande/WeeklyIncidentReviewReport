@@ -1,5 +1,5 @@
 # WeeklyIncidentReviewReport
-utomate Weekly Incident Review Report  Snow reports - Weekly reporting excel  Incidents - current week  Cadence: Weekly, 0900 EST  Goal: Forum for NA and Asia Platform teams to discuss and address any issues with incident and catalog task responses. Also allows us to keep track of joint action items that may be reliant / have dependencies across the teams.
+Automate Weekly Incident Review Report  Snow reports - Weekly reporting excel  Incidents - current week  Cadence: Weekly, 0900 EST  Goal: Forum for NA and Asia Platform teams to discuss and address any issues with incident and catalog task responses. Also allows us to keep track of joint action items that may be reliant / have dependencies across the teams.
 
 
 ## Prerequisite
