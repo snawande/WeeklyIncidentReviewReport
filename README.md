@@ -7,13 +7,14 @@ Automate Weekly Incident Review Report  Snow reports - Weekly reporting excel  I
 1. Install Python-3
 2. Install Dependencies and run as follows:
 
-# activate virtualenv
+## activate virtualenv
 source ./venv/bin/activate
 
-# install dependencies
+## install dependencies
 pip install -r requirements.txt
 
-# run script
+## run script
 python3 main.py
 
-# This will return a file : report.xlsx which will contain the report data information
+## Result
+This will return a file : report.xlsx which will contain the report data information
