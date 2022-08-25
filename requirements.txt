@@ -1,0 +1,6 @@
+--extra-index-url https://artifactory.platform.manulife.io/artifactory/api/pypi/pypi-remote/simple
+
+pandas==1.4.2
+openpyxl==3.0.10
+requests
+numpy
